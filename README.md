@@ -10,19 +10,6 @@ The script generates 3 years of realistic retail sales data, trains three foreca
 
 -----
 
-## Project Structure
-
-```
-task-1-sales-forecasting/
-├── sales_forecasting.py
-├── requirements.txt
-├── README.md
-└── outputs/
-    ├── sales_forecasting_dashboard.png
-    ├── feature_importance.png
-    ├── forecast_data.csv
-    └── model_metrics.csv
-```
 
 -----
 
